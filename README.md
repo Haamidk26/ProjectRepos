@@ -1,4 +1,4 @@
 # ProjectRepos
 This is my first repository
 <br>
-Author - Haamid Khan
+Author - Haamid Khan(Hakman code)
